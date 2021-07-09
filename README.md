@@ -24,3 +24,6 @@ make
 ```bash
 ./soci-dev
 ```
+
+## Issues
+If you run into issues with CMake cache errors, try deleting the build folder and go through the steps again.
